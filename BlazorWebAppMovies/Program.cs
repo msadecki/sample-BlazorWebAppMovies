@@ -21,6 +21,7 @@ public partial class Program
         var app = builder.Build();
 
         app.Services.MigrateDatabase();
+        app.Services.SeedData();
 
         // Configure the HTTP request pipeline.
         if (!app.Environment.IsDevelopment())
