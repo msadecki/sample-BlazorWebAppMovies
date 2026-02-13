@@ -1,3 +1,7 @@
+# Sample source - Build a Blazor movie database app (Overview)
+
+https://learn.microsoft.com/en-us/aspnet/core/blazor/tutorials/movie-database-app/?view=aspnetcore-10.0
+
 # How to add a new EF migration
 
 ## Prerequisites - Ensure EF Core Tools are installed
